@@ -1,0 +1,48 @@
+﻿@page "/students-data"
+@using StudentApp.Shared;
+@inject HttpClient Http
+
+<PageTitle>Student</PageTitle>
+
+<h1>Student</h1>
+
+<p>This component demonstrates fetching data from the server.</p>
+
+@if (students == null)
+{
+    <p><em>Loading...</em></p>
+}
+else
+{
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Name</th>
+                <th>Date of birth</th>
+                <th>Class</th>
+                <th>Stream</th>
+
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var student in students)
+            {
+                <tr>
+                    <td>@student.Name</td>
+                    <td>@student.BirthOfDate.ToShortDateString()</td>
+                    <td>@student.Class</td>
+                    <td>@student.Stream</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+
+@code {
+    private Student[]? students;
+
+    protected override async Task OnInitializedAsync()
+    {
+        students = await Http.GetFromJsonAsync<Student[]>("Student");
+    }
+}

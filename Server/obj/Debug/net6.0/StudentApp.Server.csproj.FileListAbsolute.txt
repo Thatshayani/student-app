@@ -1,0 +1,197 @@
+D:\thanu\Msc Uni\Projects-for-Assignment\StudentApp\Server\obj\Debug\net6.0\StudentApp.Server.csproj.AssemblyReference.cache
+D:\thanu\Msc Uni\Projects-for-Assignment\StudentApp\Server\obj\Debug\net6.0\StudentApp.Server.GeneratedMSBuildEditorConfig.editorconfig
+D:\thanu\Msc Uni\Projects-for-Assignment\StudentApp\Server\obj\Debug\net6.0\StudentApp.Server.AssemblyInfoInputs.cache
+D:\thanu\Msc Uni\Projects-for-Assignment\StudentApp\Server\obj\Debug\net6.0\StudentApp.Server.AssemblyInfo.cs
+D:\thanu\Msc Uni\Projects-for-Assignment\StudentApp\Server\obj\Debug\net6.0\StudentApp.Server.csproj.CoreCompileInputs.cache
+D:\thanu\Msc Uni\Projects-for-Assignment\StudentApp\Server\obj\Debug\net6.0\StudentApp.Server.MvcApplicationPartsAssemblyInfo.cache
+D:\thanu\Msc Uni\Projects-for-Assignment\StudentApp\Server\obj\Debug\net6.0\StudentApp.Server.RazorAssemblyInfo.cache
+D:\thanu\Msc Uni\Projects-for-Assignment\StudentApp\Server\obj\Debug\net6.0\StudentApp.Server.RazorAssemblyInfo.cs
+D:\thanu\Msc Uni\Projects-for-Assignment\StudentApp\Server\bin\Debug\net6.0\StudentApp.Client.staticwebassets.runtime.json
+D:\thanu\Msc Uni\Projects-for-Assignment\StudentApp\Server\bin\Debug\net6.0\appsettings.Development.json
+D:\thanu\Msc Uni\Projects-for-Assignment\StudentApp\Server\bin\Debug\net6.0\appsettings.json
+D:\thanu\Msc Uni\Projects-for-Assignment\StudentApp\Server\bin\Debug\net6.0\BlazorDebugProxy\BrowserDebugHost.dll
+D:\thanu\Msc Uni\Projects-for-Assignment\StudentApp\Server\bin\Debug\net6.0\BlazorDebugProxy\BrowserDebugHost.runtimeconfig.json
+D:\thanu\Msc Uni\Projects-for-Assignment\StudentApp\Server\bin\Debug\net6.0\BlazorDebugProxy\BrowserDebugProxy.dll
+D:\thanu\Msc Uni\Projects-for-Assignment\StudentApp\Server\bin\Debug\net6.0\BlazorDebugProxy\Microsoft.CodeAnalysis.CSharp.dll
+D:\thanu\Msc Uni\Projects-for-Assignment\StudentApp\Server\bin\Debug\net6.0\BlazorDebugProxy\Microsoft.CodeAnalysis.dll
+D:\thanu\Msc Uni\Projects-for-Assignment\StudentApp\Server\bin\Debug\net6.0\BlazorDebugProxy\Newtonsoft.Json.dll
+D:\thanu\Msc Uni\Projects-for-Assignment\StudentApp\Server\bin\Debug\net6.0\StudentApp.Server.staticwebassets.runtime.json
+D:\thanu\Msc Uni\Projects-for-Assignment\StudentApp\Server\bin\Debug\net6.0\StudentApp.Server.exe
+D:\thanu\Msc Uni\Projects-for-Assignment\StudentApp\Server\bin\Debug\net6.0\StudentApp.Server.deps.json
+D:\thanu\Msc Uni\Projects-for-Assignment\StudentApp\Server\bin\Debug\net6.0\StudentApp.Server.runtimeconfig.json
+D:\thanu\Msc Uni\Projects-for-Assignment\StudentApp\Server\bin\Debug\net6.0\StudentApp.Server.dll
+D:\thanu\Msc Uni\Projects-for-Assignment\StudentApp\Server\bin\Debug\net6.0\StudentApp.Server.pdb
+D:\thanu\Msc Uni\Projects-for-Assignment\StudentApp\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Authorization.dll
+D:\thanu\Msc Uni\Projects-for-Assignment\StudentApp\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Components.dll
+D:\thanu\Msc Uni\Projects-for-Assignment\StudentApp\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Components.Forms.dll
+D:\thanu\Msc Uni\Projects-for-Assignment\StudentApp\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Components.Web.dll
+D:\thanu\Msc Uni\Projects-for-Assignment\StudentApp\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Components.WebAssembly.dll
+D:\thanu\Msc Uni\Projects-for-Assignment\StudentApp\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Components.WebAssembly.Server.dll
+D:\thanu\Msc Uni\Projects-for-Assignment\StudentApp\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Metadata.dll
+D:\thanu\Msc Uni\Projects-for-Assignment\StudentApp\Server\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\thanu\Msc Uni\Projects-for-Assignment\StudentApp\Server\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\thanu\Msc Uni\Projects-for-Assignment\StudentApp\Server\bin\Debug\net6.0\Microsoft.JSInterop.dll
+D:\thanu\Msc Uni\Projects-for-Assignment\StudentApp\Server\bin\Debug\net6.0\Microsoft.JSInterop.WebAssembly.dll
+D:\thanu\Msc Uni\Projects-for-Assignment\StudentApp\Server\bin\Debug\net6.0\System.IO.Pipelines.dll
+D:\thanu\Msc Uni\Projects-for-Assignment\StudentApp\Server\bin\Debug\net6.0\StudentApp.Client.dll
+D:\thanu\Msc Uni\Projects-for-Assignment\StudentApp\Server\bin\Debug\net6.0\StudentApp.Shared.dll
+D:\thanu\Msc Uni\Projects-for-Assignment\StudentApp\Server\bin\Debug\net6.0\StudentApp.Client.pdb
+D:\thanu\Msc Uni\Projects-for-Assignment\StudentApp\Server\bin\Debug\net6.0\StudentApp.Shared.pdb
+D:\thanu\Msc Uni\Projects-for-Assignment\StudentApp\Server\obj\Debug\net6.0\staticwebassets\msbuild.StudentApp.Server.Microsoft.AspNetCore.StaticWebAssets.props
+D:\thanu\Msc Uni\Projects-for-Assignment\StudentApp\Server\obj\Debug\net6.0\staticwebassets\msbuild.build.StudentApp.Server.props
+D:\thanu\Msc Uni\Projects-for-Assignment\StudentApp\Server\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.StudentApp.Server.props
+D:\thanu\Msc Uni\Projects-for-Assignment\StudentApp\Server\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.StudentApp.Server.props
+D:\thanu\Msc Uni\Projects-for-Assignment\StudentApp\Server\obj\Debug\net6.0\staticwebassets.pack.json
+D:\thanu\Msc Uni\Projects-for-Assignment\StudentApp\Server\obj\Debug\net6.0\staticwebassets.build.json
+D:\thanu\Msc Uni\Projects-for-Assignment\StudentApp\Server\obj\Debug\net6.0\staticwebassets.development.json
+D:\thanu\Msc Uni\Projects-for-Assignment\StudentApp\Server\obj\Debug\net6.0\scopedcss\bundle\StudentApp.Server.styles.css
+D:\thanu\Msc Uni\Projects-for-Assignment\StudentApp\Server\obj\Debug\net6.0\StudentApp.Server.csproj.CopyComplete
+D:\thanu\Msc Uni\Projects-for-Assignment\StudentApp\Server\obj\Debug\net6.0\StudentApp.Server.dll
+D:\thanu\Msc Uni\Projects-for-Assignment\StudentApp\Server\obj\Debug\net6.0\refint\StudentApp.Server.dll
+D:\thanu\Msc Uni\Projects-for-Assignment\StudentApp\Server\obj\Debug\net6.0\StudentApp.Server.pdb
+D:\thanu\Msc Uni\Projects-for-Assignment\StudentApp\Server\obj\Debug\net6.0\StudentApp.Server.genruntimeconfig.cache
+D:\thanu\Msc Uni\Projects-for-Assignment\StudentApp\Server\obj\Debug\net6.0\ref\StudentApp.Server.dll
+C:\Users\Thatcha1\Downloads\StudentApp\StudentApp\Server\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Thatcha1\Downloads\StudentApp\StudentApp\Server\bin\Debug\net6.0\appsettings.json
+C:\Users\Thatcha1\Downloads\StudentApp\StudentApp\Server\bin\Debug\net6.0\BlazorDebugProxy\BrowserDebugHost.dll
+C:\Users\Thatcha1\Downloads\StudentApp\StudentApp\Server\bin\Debug\net6.0\BlazorDebugProxy\BrowserDebugHost.runtimeconfig.json
+C:\Users\Thatcha1\Downloads\StudentApp\StudentApp\Server\bin\Debug\net6.0\BlazorDebugProxy\BrowserDebugProxy.dll
+C:\Users\Thatcha1\Downloads\StudentApp\StudentApp\Server\bin\Debug\net6.0\BlazorDebugProxy\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Thatcha1\Downloads\StudentApp\StudentApp\Server\bin\Debug\net6.0\BlazorDebugProxy\Microsoft.CodeAnalysis.dll
+C:\Users\Thatcha1\Downloads\StudentApp\StudentApp\Server\bin\Debug\net6.0\BlazorDebugProxy\Newtonsoft.Json.dll
+C:\Users\Thatcha1\Downloads\StudentApp\StudentApp\Server\bin\Debug\net6.0\StudentApp.Client.staticwebassets.runtime.json
+C:\Users\Thatcha1\Downloads\StudentApp\StudentApp\Server\bin\Debug\net6.0\StudentApp.Server.staticwebassets.runtime.json
+C:\Users\Thatcha1\Downloads\StudentApp\StudentApp\Server\bin\Debug\net6.0\StudentApp.Server.exe
+C:\Users\Thatcha1\Downloads\StudentApp\StudentApp\Server\bin\Debug\net6.0\StudentApp.Server.deps.json
+C:\Users\Thatcha1\Downloads\StudentApp\StudentApp\Server\bin\Debug\net6.0\StudentApp.Server.runtimeconfig.json
+C:\Users\Thatcha1\Downloads\StudentApp\StudentApp\Server\bin\Debug\net6.0\StudentApp.Server.dll
+C:\Users\Thatcha1\Downloads\StudentApp\StudentApp\Server\bin\Debug\net6.0\StudentApp.Server.pdb
+C:\Users\Thatcha1\Downloads\StudentApp\StudentApp\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Authorization.dll
+C:\Users\Thatcha1\Downloads\StudentApp\StudentApp\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Components.dll
+C:\Users\Thatcha1\Downloads\StudentApp\StudentApp\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Components.Forms.dll
+C:\Users\Thatcha1\Downloads\StudentApp\StudentApp\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Components.Web.dll
+C:\Users\Thatcha1\Downloads\StudentApp\StudentApp\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Components.WebAssembly.dll
+C:\Users\Thatcha1\Downloads\StudentApp\StudentApp\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Components.WebAssembly.Server.dll
+C:\Users\Thatcha1\Downloads\StudentApp\StudentApp\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Metadata.dll
+C:\Users\Thatcha1\Downloads\StudentApp\StudentApp\Server\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Thatcha1\Downloads\StudentApp\StudentApp\Server\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Thatcha1\Downloads\StudentApp\StudentApp\Server\bin\Debug\net6.0\Microsoft.JSInterop.dll
+C:\Users\Thatcha1\Downloads\StudentApp\StudentApp\Server\bin\Debug\net6.0\Microsoft.JSInterop.WebAssembly.dll
+C:\Users\Thatcha1\Downloads\StudentApp\StudentApp\Server\bin\Debug\net6.0\System.IO.Pipelines.dll
+C:\Users\Thatcha1\Downloads\StudentApp\StudentApp\Server\bin\Debug\net6.0\StudentApp.Client.dll
+C:\Users\Thatcha1\Downloads\StudentApp\StudentApp\Server\bin\Debug\net6.0\StudentApp.Shared.dll
+C:\Users\Thatcha1\Downloads\StudentApp\StudentApp\Server\bin\Debug\net6.0\StudentApp.Client.pdb
+C:\Users\Thatcha1\Downloads\StudentApp\StudentApp\Server\bin\Debug\net6.0\StudentApp.Shared.pdb
+C:\Users\Thatcha1\Downloads\StudentApp\StudentApp\Server\obj\Debug\net6.0\StudentApp.Server.csproj.AssemblyReference.cache
+C:\Users\Thatcha1\Downloads\StudentApp\StudentApp\Server\obj\Debug\net6.0\StudentApp.Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thatcha1\Downloads\StudentApp\StudentApp\Server\obj\Debug\net6.0\StudentApp.Server.AssemblyInfoInputs.cache
+C:\Users\Thatcha1\Downloads\StudentApp\StudentApp\Server\obj\Debug\net6.0\StudentApp.Server.AssemblyInfo.cs
+C:\Users\Thatcha1\Downloads\StudentApp\StudentApp\Server\obj\Debug\net6.0\StudentApp.Server.csproj.CoreCompileInputs.cache
+C:\Users\Thatcha1\Downloads\StudentApp\StudentApp\Server\obj\Debug\net6.0\StudentApp.Server.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Thatcha1\Downloads\StudentApp\StudentApp\Server\obj\Debug\net6.0\StudentApp.Server.RazorAssemblyInfo.cache
+C:\Users\Thatcha1\Downloads\StudentApp\StudentApp\Server\obj\Debug\net6.0\StudentApp.Server.RazorAssemblyInfo.cs
+C:\Users\Thatcha1\Downloads\StudentApp\StudentApp\Server\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Thatcha1\Downloads\StudentApp\StudentApp\Server\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Thatcha1\Downloads\StudentApp\StudentApp\Server\obj\Debug\net6.0\scopedcss\bundle\StudentApp.Server.styles.css
+C:\Users\Thatcha1\Downloads\StudentApp\StudentApp\Server\obj\Debug\net6.0\StudentApp.Server.csproj.CopyComplete
+C:\Users\Thatcha1\Downloads\StudentApp\StudentApp\Server\obj\Debug\net6.0\StudentApp.Server.dll
+C:\Users\Thatcha1\Downloads\StudentApp\StudentApp\Server\obj\Debug\net6.0\refint\StudentApp.Server.dll
+C:\Users\Thatcha1\Downloads\StudentApp\StudentApp\Server\obj\Debug\net6.0\StudentApp.Server.pdb
+C:\Users\Thatcha1\Downloads\StudentApp\StudentApp\Server\obj\Debug\net6.0\StudentApp.Server.genruntimeconfig.cache
+C:\Users\Thatcha1\Downloads\StudentApp\StudentApp\Server\obj\Debug\net6.0\ref\StudentApp.Server.dll
+C:\Users\Thatcha1\Documents\vs code projects\StudentApp\StudentApp\Server\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Thatcha1\Documents\vs code projects\StudentApp\StudentApp\Server\bin\Debug\net6.0\appsettings.json
+C:\Users\Thatcha1\Documents\vs code projects\StudentApp\StudentApp\Server\bin\Debug\net6.0\BlazorDebugProxy\BrowserDebugHost.dll
+C:\Users\Thatcha1\Documents\vs code projects\StudentApp\StudentApp\Server\bin\Debug\net6.0\BlazorDebugProxy\BrowserDebugHost.runtimeconfig.json
+C:\Users\Thatcha1\Documents\vs code projects\StudentApp\StudentApp\Server\bin\Debug\net6.0\BlazorDebugProxy\BrowserDebugProxy.dll
+C:\Users\Thatcha1\Documents\vs code projects\StudentApp\StudentApp\Server\bin\Debug\net6.0\BlazorDebugProxy\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Thatcha1\Documents\vs code projects\StudentApp\StudentApp\Server\bin\Debug\net6.0\BlazorDebugProxy\Microsoft.CodeAnalysis.dll
+C:\Users\Thatcha1\Documents\vs code projects\StudentApp\StudentApp\Server\bin\Debug\net6.0\BlazorDebugProxy\Newtonsoft.Json.dll
+C:\Users\Thatcha1\Documents\vs code projects\StudentApp\StudentApp\Server\bin\Debug\net6.0\StudentApp.Client.staticwebassets.runtime.json
+C:\Users\Thatcha1\Documents\vs code projects\StudentApp\StudentApp\Server\bin\Debug\net6.0\StudentApp.Server.staticwebassets.runtime.json
+C:\Users\Thatcha1\Documents\vs code projects\StudentApp\StudentApp\Server\bin\Debug\net6.0\StudentApp.Server.exe
+C:\Users\Thatcha1\Documents\vs code projects\StudentApp\StudentApp\Server\bin\Debug\net6.0\StudentApp.Server.deps.json
+C:\Users\Thatcha1\Documents\vs code projects\StudentApp\StudentApp\Server\bin\Debug\net6.0\StudentApp.Server.runtimeconfig.json
+C:\Users\Thatcha1\Documents\vs code projects\StudentApp\StudentApp\Server\bin\Debug\net6.0\StudentApp.Server.dll
+C:\Users\Thatcha1\Documents\vs code projects\StudentApp\StudentApp\Server\bin\Debug\net6.0\StudentApp.Server.pdb
+C:\Users\Thatcha1\Documents\vs code projects\StudentApp\StudentApp\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Authorization.dll
+C:\Users\Thatcha1\Documents\vs code projects\StudentApp\StudentApp\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Components.dll
+C:\Users\Thatcha1\Documents\vs code projects\StudentApp\StudentApp\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Components.Forms.dll
+C:\Users\Thatcha1\Documents\vs code projects\StudentApp\StudentApp\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Components.Web.dll
+C:\Users\Thatcha1\Documents\vs code projects\StudentApp\StudentApp\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Components.WebAssembly.dll
+C:\Users\Thatcha1\Documents\vs code projects\StudentApp\StudentApp\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Components.WebAssembly.Server.dll
+C:\Users\Thatcha1\Documents\vs code projects\StudentApp\StudentApp\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Metadata.dll
+C:\Users\Thatcha1\Documents\vs code projects\StudentApp\StudentApp\Server\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Thatcha1\Documents\vs code projects\StudentApp\StudentApp\Server\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Thatcha1\Documents\vs code projects\StudentApp\StudentApp\Server\bin\Debug\net6.0\Microsoft.JSInterop.dll
+C:\Users\Thatcha1\Documents\vs code projects\StudentApp\StudentApp\Server\bin\Debug\net6.0\Microsoft.JSInterop.WebAssembly.dll
+C:\Users\Thatcha1\Documents\vs code projects\StudentApp\StudentApp\Server\bin\Debug\net6.0\System.IO.Pipelines.dll
+C:\Users\Thatcha1\Documents\vs code projects\StudentApp\StudentApp\Server\bin\Debug\net6.0\StudentApp.Client.dll
+C:\Users\Thatcha1\Documents\vs code projects\StudentApp\StudentApp\Server\bin\Debug\net6.0\StudentApp.Shared.dll
+C:\Users\Thatcha1\Documents\vs code projects\StudentApp\StudentApp\Server\bin\Debug\net6.0\StudentApp.Client.pdb
+C:\Users\Thatcha1\Documents\vs code projects\StudentApp\StudentApp\Server\bin\Debug\net6.0\StudentApp.Shared.pdb
+C:\Users\Thatcha1\Documents\vs code projects\StudentApp\StudentApp\Server\obj\Debug\net6.0\StudentApp.Server.csproj.AssemblyReference.cache
+C:\Users\Thatcha1\Documents\vs code projects\StudentApp\StudentApp\Server\obj\Debug\net6.0\StudentApp.Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thatcha1\Documents\vs code projects\StudentApp\StudentApp\Server\obj\Debug\net6.0\StudentApp.Server.AssemblyInfoInputs.cache
+C:\Users\Thatcha1\Documents\vs code projects\StudentApp\StudentApp\Server\obj\Debug\net6.0\StudentApp.Server.AssemblyInfo.cs
+C:\Users\Thatcha1\Documents\vs code projects\StudentApp\StudentApp\Server\obj\Debug\net6.0\StudentApp.Server.csproj.CoreCompileInputs.cache
+C:\Users\Thatcha1\Documents\vs code projects\StudentApp\StudentApp\Server\obj\Debug\net6.0\StudentApp.Server.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Thatcha1\Documents\vs code projects\StudentApp\StudentApp\Server\obj\Debug\net6.0\StudentApp.Server.RazorAssemblyInfo.cache
+C:\Users\Thatcha1\Documents\vs code projects\StudentApp\StudentApp\Server\obj\Debug\net6.0\StudentApp.Server.RazorAssemblyInfo.cs
+C:\Users\Thatcha1\Documents\vs code projects\StudentApp\StudentApp\Server\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Thatcha1\Documents\vs code projects\StudentApp\StudentApp\Server\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Thatcha1\Documents\vs code projects\StudentApp\StudentApp\Server\obj\Debug\net6.0\scopedcss\bundle\StudentApp.Server.styles.css
+C:\Users\Thatcha1\Documents\vs code projects\StudentApp\StudentApp\Server\obj\Debug\net6.0\StudentApp.Server.csproj.CopyComplete
+C:\Users\Thatcha1\Documents\vs code projects\StudentApp\StudentApp\Server\obj\Debug\net6.0\StudentApp.Server.dll
+C:\Users\Thatcha1\Documents\vs code projects\StudentApp\StudentApp\Server\obj\Debug\net6.0\refint\StudentApp.Server.dll
+C:\Users\Thatcha1\Documents\vs code projects\StudentApp\StudentApp\Server\obj\Debug\net6.0\StudentApp.Server.pdb
+C:\Users\Thatcha1\Documents\vs code projects\StudentApp\StudentApp\Server\obj\Debug\net6.0\StudentApp.Server.genruntimeconfig.cache
+C:\Users\Thatcha1\Documents\vs code projects\StudentApp\StudentApp\Server\obj\Debug\net6.0\ref\StudentApp.Server.dll
+C:\Users\Thatcha1\Desktop\StudentApp\Server\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Thatcha1\Desktop\StudentApp\Server\bin\Debug\net6.0\appsettings.json
+C:\Users\Thatcha1\Desktop\StudentApp\Server\bin\Debug\net6.0\BlazorDebugProxy\BrowserDebugHost.dll
+C:\Users\Thatcha1\Desktop\StudentApp\Server\bin\Debug\net6.0\BlazorDebugProxy\BrowserDebugHost.runtimeconfig.json
+C:\Users\Thatcha1\Desktop\StudentApp\Server\bin\Debug\net6.0\BlazorDebugProxy\BrowserDebugProxy.dll
+C:\Users\Thatcha1\Desktop\StudentApp\Server\bin\Debug\net6.0\BlazorDebugProxy\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Thatcha1\Desktop\StudentApp\Server\bin\Debug\net6.0\BlazorDebugProxy\Microsoft.CodeAnalysis.dll
+C:\Users\Thatcha1\Desktop\StudentApp\Server\bin\Debug\net6.0\BlazorDebugProxy\Newtonsoft.Json.dll
+C:\Users\Thatcha1\Desktop\StudentApp\Server\bin\Debug\net6.0\StudentApp.Client.staticwebassets.runtime.json
+C:\Users\Thatcha1\Desktop\StudentApp\Server\bin\Debug\net6.0\StudentApp.Server.staticwebassets.runtime.json
+C:\Users\Thatcha1\Desktop\StudentApp\Server\bin\Debug\net6.0\StudentApp.Server.exe
+C:\Users\Thatcha1\Desktop\StudentApp\Server\bin\Debug\net6.0\StudentApp.Server.deps.json
+C:\Users\Thatcha1\Desktop\StudentApp\Server\bin\Debug\net6.0\StudentApp.Server.runtimeconfig.json
+C:\Users\Thatcha1\Desktop\StudentApp\Server\bin\Debug\net6.0\StudentApp.Server.dll
+C:\Users\Thatcha1\Desktop\StudentApp\Server\bin\Debug\net6.0\StudentApp.Server.pdb
+C:\Users\Thatcha1\Desktop\StudentApp\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Authorization.dll
+C:\Users\Thatcha1\Desktop\StudentApp\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Components.dll
+C:\Users\Thatcha1\Desktop\StudentApp\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Components.Forms.dll
+C:\Users\Thatcha1\Desktop\StudentApp\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Components.Web.dll
+C:\Users\Thatcha1\Desktop\StudentApp\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Components.WebAssembly.dll
+C:\Users\Thatcha1\Desktop\StudentApp\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Components.WebAssembly.Server.dll
+C:\Users\Thatcha1\Desktop\StudentApp\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Metadata.dll
+C:\Users\Thatcha1\Desktop\StudentApp\Server\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Thatcha1\Desktop\StudentApp\Server\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Thatcha1\Desktop\StudentApp\Server\bin\Debug\net6.0\Microsoft.JSInterop.dll
+C:\Users\Thatcha1\Desktop\StudentApp\Server\bin\Debug\net6.0\Microsoft.JSInterop.WebAssembly.dll
+C:\Users\Thatcha1\Desktop\StudentApp\Server\bin\Debug\net6.0\System.IO.Pipelines.dll
+C:\Users\Thatcha1\Desktop\StudentApp\Server\bin\Debug\net6.0\StudentApp.Client.dll
+C:\Users\Thatcha1\Desktop\StudentApp\Server\bin\Debug\net6.0\StudentApp.Shared.dll
+C:\Users\Thatcha1\Desktop\StudentApp\Server\bin\Debug\net6.0\StudentApp.Client.pdb
+C:\Users\Thatcha1\Desktop\StudentApp\Server\bin\Debug\net6.0\StudentApp.Shared.pdb
+C:\Users\Thatcha1\Desktop\StudentApp\Server\obj\Debug\net6.0\StudentApp.Server.csproj.AssemblyReference.cache
+C:\Users\Thatcha1\Desktop\StudentApp\Server\obj\Debug\net6.0\StudentApp.Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thatcha1\Desktop\StudentApp\Server\obj\Debug\net6.0\StudentApp.Server.AssemblyInfoInputs.cache
+C:\Users\Thatcha1\Desktop\StudentApp\Server\obj\Debug\net6.0\StudentApp.Server.AssemblyInfo.cs
+C:\Users\Thatcha1\Desktop\StudentApp\Server\obj\Debug\net6.0\StudentApp.Server.csproj.CoreCompileInputs.cache
+C:\Users\Thatcha1\Desktop\StudentApp\Server\obj\Debug\net6.0\StudentApp.Server.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Thatcha1\Desktop\StudentApp\Server\obj\Debug\net6.0\StudentApp.Server.RazorAssemblyInfo.cache
+C:\Users\Thatcha1\Desktop\StudentApp\Server\obj\Debug\net6.0\StudentApp.Server.RazorAssemblyInfo.cs
+C:\Users\Thatcha1\Desktop\StudentApp\Server\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Thatcha1\Desktop\StudentApp\Server\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Thatcha1\Desktop\StudentApp\Server\obj\Debug\net6.0\scopedcss\bundle\StudentApp.Server.styles.css
+C:\Users\Thatcha1\Desktop\StudentApp\Server\obj\Debug\net6.0\StudentApp.Server.csproj.CopyComplete
+C:\Users\Thatcha1\Desktop\StudentApp\Server\obj\Debug\net6.0\StudentApp.Server.dll
+C:\Users\Thatcha1\Desktop\StudentApp\Server\obj\Debug\net6.0\refint\StudentApp.Server.dll
+C:\Users\Thatcha1\Desktop\StudentApp\Server\obj\Debug\net6.0\StudentApp.Server.pdb
+C:\Users\Thatcha1\Desktop\StudentApp\Server\obj\Debug\net6.0\StudentApp.Server.genruntimeconfig.cache
+C:\Users\Thatcha1\Desktop\StudentApp\Server\obj\Debug\net6.0\ref\StudentApp.Server.dll

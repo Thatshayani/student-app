@@ -1,0 +1,48 @@
+D:\thanu\Msc Uni\Projects-for-Assignment\StudentApp\Shared\bin\Debug\net6.0\StudentApp.Shared.deps.json
+D:\thanu\Msc Uni\Projects-for-Assignment\StudentApp\Shared\bin\Debug\net6.0\StudentApp.Shared.dll
+D:\thanu\Msc Uni\Projects-for-Assignment\StudentApp\Shared\bin\Debug\net6.0\StudentApp.Shared.pdb
+D:\thanu\Msc Uni\Projects-for-Assignment\StudentApp\Shared\obj\Debug\net6.0\StudentApp.Shared.csproj.AssemblyReference.cache
+D:\thanu\Msc Uni\Projects-for-Assignment\StudentApp\Shared\obj\Debug\net6.0\StudentApp.Shared.GeneratedMSBuildEditorConfig.editorconfig
+D:\thanu\Msc Uni\Projects-for-Assignment\StudentApp\Shared\obj\Debug\net6.0\StudentApp.Shared.AssemblyInfoInputs.cache
+D:\thanu\Msc Uni\Projects-for-Assignment\StudentApp\Shared\obj\Debug\net6.0\StudentApp.Shared.AssemblyInfo.cs
+D:\thanu\Msc Uni\Projects-for-Assignment\StudentApp\Shared\obj\Debug\net6.0\StudentApp.Shared.csproj.CoreCompileInputs.cache
+D:\thanu\Msc Uni\Projects-for-Assignment\StudentApp\Shared\obj\Debug\net6.0\StudentApp.Shared.dll
+D:\thanu\Msc Uni\Projects-for-Assignment\StudentApp\Shared\obj\Debug\net6.0\refint\StudentApp.Shared.dll
+D:\thanu\Msc Uni\Projects-for-Assignment\StudentApp\Shared\obj\Debug\net6.0\StudentApp.Shared.pdb
+D:\thanu\Msc Uni\Projects-for-Assignment\StudentApp\Shared\obj\Debug\net6.0\ref\StudentApp.Shared.dll
+C:\Users\Thatcha1\Downloads\StudentApp\StudentApp\Shared\bin\Debug\net6.0\StudentApp.Shared.deps.json
+C:\Users\Thatcha1\Downloads\StudentApp\StudentApp\Shared\bin\Debug\net6.0\StudentApp.Shared.dll
+C:\Users\Thatcha1\Downloads\StudentApp\StudentApp\Shared\bin\Debug\net6.0\StudentApp.Shared.pdb
+C:\Users\Thatcha1\Downloads\StudentApp\StudentApp\Shared\obj\Debug\net6.0\StudentApp.Shared.csproj.AssemblyReference.cache
+C:\Users\Thatcha1\Downloads\StudentApp\StudentApp\Shared\obj\Debug\net6.0\StudentApp.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thatcha1\Downloads\StudentApp\StudentApp\Shared\obj\Debug\net6.0\StudentApp.Shared.AssemblyInfoInputs.cache
+C:\Users\Thatcha1\Downloads\StudentApp\StudentApp\Shared\obj\Debug\net6.0\StudentApp.Shared.AssemblyInfo.cs
+C:\Users\Thatcha1\Downloads\StudentApp\StudentApp\Shared\obj\Debug\net6.0\StudentApp.Shared.csproj.CoreCompileInputs.cache
+C:\Users\Thatcha1\Downloads\StudentApp\StudentApp\Shared\obj\Debug\net6.0\StudentApp.Shared.dll
+C:\Users\Thatcha1\Downloads\StudentApp\StudentApp\Shared\obj\Debug\net6.0\refint\StudentApp.Shared.dll
+C:\Users\Thatcha1\Downloads\StudentApp\StudentApp\Shared\obj\Debug\net6.0\StudentApp.Shared.pdb
+C:\Users\Thatcha1\Downloads\StudentApp\StudentApp\Shared\obj\Debug\net6.0\ref\StudentApp.Shared.dll
+C:\Users\Thatcha1\Documents\vs code projects\StudentApp\StudentApp\Shared\bin\Debug\net6.0\StudentApp.Shared.deps.json
+C:\Users\Thatcha1\Documents\vs code projects\StudentApp\StudentApp\Shared\bin\Debug\net6.0\StudentApp.Shared.dll
+C:\Users\Thatcha1\Documents\vs code projects\StudentApp\StudentApp\Shared\bin\Debug\net6.0\StudentApp.Shared.pdb
+C:\Users\Thatcha1\Documents\vs code projects\StudentApp\StudentApp\Shared\obj\Debug\net6.0\StudentApp.Shared.csproj.AssemblyReference.cache
+C:\Users\Thatcha1\Documents\vs code projects\StudentApp\StudentApp\Shared\obj\Debug\net6.0\StudentApp.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thatcha1\Documents\vs code projects\StudentApp\StudentApp\Shared\obj\Debug\net6.0\StudentApp.Shared.AssemblyInfoInputs.cache
+C:\Users\Thatcha1\Documents\vs code projects\StudentApp\StudentApp\Shared\obj\Debug\net6.0\StudentApp.Shared.AssemblyInfo.cs
+C:\Users\Thatcha1\Documents\vs code projects\StudentApp\StudentApp\Shared\obj\Debug\net6.0\StudentApp.Shared.csproj.CoreCompileInputs.cache
+C:\Users\Thatcha1\Documents\vs code projects\StudentApp\StudentApp\Shared\obj\Debug\net6.0\StudentApp.Shared.dll
+C:\Users\Thatcha1\Documents\vs code projects\StudentApp\StudentApp\Shared\obj\Debug\net6.0\refint\StudentApp.Shared.dll
+C:\Users\Thatcha1\Documents\vs code projects\StudentApp\StudentApp\Shared\obj\Debug\net6.0\StudentApp.Shared.pdb
+C:\Users\Thatcha1\Documents\vs code projects\StudentApp\StudentApp\Shared\obj\Debug\net6.0\ref\StudentApp.Shared.dll
+C:\Users\Thatcha1\Desktop\StudentApp\Shared\bin\Debug\net6.0\StudentApp.Shared.deps.json
+C:\Users\Thatcha1\Desktop\StudentApp\Shared\bin\Debug\net6.0\StudentApp.Shared.dll
+C:\Users\Thatcha1\Desktop\StudentApp\Shared\bin\Debug\net6.0\StudentApp.Shared.pdb
+C:\Users\Thatcha1\Desktop\StudentApp\Shared\obj\Debug\net6.0\StudentApp.Shared.csproj.AssemblyReference.cache
+C:\Users\Thatcha1\Desktop\StudentApp\Shared\obj\Debug\net6.0\StudentApp.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thatcha1\Desktop\StudentApp\Shared\obj\Debug\net6.0\StudentApp.Shared.AssemblyInfoInputs.cache
+C:\Users\Thatcha1\Desktop\StudentApp\Shared\obj\Debug\net6.0\StudentApp.Shared.AssemblyInfo.cs
+C:\Users\Thatcha1\Desktop\StudentApp\Shared\obj\Debug\net6.0\StudentApp.Shared.csproj.CoreCompileInputs.cache
+C:\Users\Thatcha1\Desktop\StudentApp\Shared\obj\Debug\net6.0\StudentApp.Shared.dll
+C:\Users\Thatcha1\Desktop\StudentApp\Shared\obj\Debug\net6.0\refint\StudentApp.Shared.dll
+C:\Users\Thatcha1\Desktop\StudentApp\Shared\obj\Debug\net6.0\StudentApp.Shared.pdb
+C:\Users\Thatcha1\Desktop\StudentApp\Shared\obj\Debug\net6.0\ref\StudentApp.Shared.dll
